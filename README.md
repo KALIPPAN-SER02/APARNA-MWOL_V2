@@ -39,7 +39,7 @@ Project created by <a href="https://github.com/Kalippan-Midhunx3">KALIPPAN-SER</
 
   ### SIMPLE METHOD
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KALIPPANSIR/APARNA-MWOL-V2.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2.git)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
