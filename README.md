@@ -13,7 +13,7 @@ src="tenor.gif" alt="GIF" width="2.35" height="1"/>
 
 <div align="center">
   <p align="center">
-<img src=https://www.linkpicture.com/q/IMG-20220327-WA0949.jpg>
+<img src=https://www.linkpicture.com/q/icon1.jpg>
 </p>
 
   <p align="center">
