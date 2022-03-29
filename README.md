@@ -1,7 +1,8 @@
 <div align="center">
   <p align="center">
-<img 
-src="tenor.gif" alt="GIF" width="2.35" height="1"/>
+
+   <img 
+src="https://tenor.com/view/kiss-gif-25234454.gif" alt="GIF"/>
 </p>
 
 
