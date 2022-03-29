@@ -10,14 +10,14 @@ const events = require("./events");
 const chalk = require('chalk');
 const config = require('./config');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./APARNA-V2/');
+const {Message, StringSession, Image, Video} = require('./APARNA/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const axios = require('axios');
 const got = require('got');
 
 // Sql
-const WhatsAsenaDB = config.DATABASE.define('APARNA-V2', {
+const WhatsAsenaDB = config.DATABASE.define('APARNA', {
     info: {
       type: DataTypes.STRING,
       allowNull: false
