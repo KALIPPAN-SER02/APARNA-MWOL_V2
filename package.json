@@ -2,7 +2,7 @@
   "name": "APARNA-MWOL_V2",
   "version": "2.0.0",
   "description": "APARNA-MWOL_V2 whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
-  "main": "./Toxic-Alexa/bot.js",
+  "main": "./APARNA-MWOL_V2/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
