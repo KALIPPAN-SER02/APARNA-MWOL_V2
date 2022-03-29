@@ -6,7 +6,7 @@ src="https://tenor.com/view/kiss-gif-25234454.gif" alt="GIF"/>
 </p>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+KALIPPANSER+WA+BOT+REPO;CREATED+BY+KALIPPAN+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+APARNA+MWOL+V2+REPO;CREATED+BY+KALIPPAN+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -51,8 +51,8 @@ Project created by <a href="https://github.com/Kalippan-Midhunx3">KALIPPAN-SER</
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Kalippan-Midhunx3/Kalippanser
-$ cd KALIPPAN-ser
+$ git clone https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2
+$ cd APARNA-MWOL_V2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -60,8 +60,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Kalippan-Midhunx3/Kalippanser
-$ cd KALIPPAN-SER
+$ git clone https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2
+$ cd APARNA-MWOL_V2
 $ npm i
 $ node julie.js
 ```
@@ -69,16 +69,16 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="https://github.com/Kalippan-Midhunx3/Kalippanser/followers">
+  <a href="https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2/followers">
     
-<a href="https://github.com/Kalippan-Midhunx3/">
+<a href="https://github.com/KALIPPAN-SER02/">
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Kalippan-Midhunx3/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kalippan-Midhunx3/Kalippanser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kalippan-Midhunx3/Kalippanser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kalippan-Midhunx3/Kalippanser"><img title="Forks" src="https://img.shields.io/github/forks/Kalippan-Midhunx3/Kalippanser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kalippan-Midhunx3/Kalippanser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kalippan-Midhunx3/Kalippanser?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KALIPPAN-SER02/APARNA-MWOL_V2?color=blue&style=flat-square"></a>
+<a href="https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2"><img title="Forks" src="https://img.shields.io/github/forks/KALIPPAN-SER02/APARNA-MWOL_V2?color=blue&style=flat-square"></a>
+<a href="https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/KALIPPAN-SER02/APARNA-MWOL_V2?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <div align="center">
     
@@ -91,9 +91,9 @@ By using kick, add, promote, demote Commands, Your WhatsApp account may be banne
 ## DEVELOPERS
   <div align="center">
     
-  [![Midhunser](https://github.com/Kalippan-Midhunx3.png?size=100)](https://github.com/Kalippan-Midhunx3) |  [![Midhunser](https://github.com/Kalippan-Midhunx3.png?size=100)](https://github.com/Kalippan-Midhunx3) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Midhunser](https://github.com/KALIPPAN-SER02.png?size=100)](https://github.com/Kalippan-Midhunx3) |  [![Midhunser](https://github.com/Kalippan-Midhunx3.png?size=100)](https://github.com/Kalippan-Midhunx3) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|---
-[Midhunser](https://github.com/kalippan-minnuz)  | [Midhunser](https://github.com/Kalippan-minnuz) | [afnanplk](https://github.com/afnanplk)
+[Midhunser](https://github.com/KALIPPAN-SER02)  | [Midhunser](https://github.com/Kalippan-minnuz) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
