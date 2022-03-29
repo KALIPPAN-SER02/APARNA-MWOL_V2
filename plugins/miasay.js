@@ -18,7 +18,7 @@ if (Config.WORKTYPE == 'private') {
 
     var ttinullimage = await axios.get(`https://api.zeks.xyz/api/phub?apikey=4PXD3f97yHgcO8aOD5GGIsEJB6l&img=https://www.filmibeat.com/wimgm/500x70/mobi/2017/11/mia-khalifa_1510989398130.jpg&username=Mia%20Khalifa&msg=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Toxic-Alexa😉*' })
+    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by ᮘKͥᴀͭʟᷤɪᴘͫᴘͤᴀɴ ➣Sᴇʀ᭄↹😉*' })
 
   }));
 }
@@ -31,7 +31,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var ttinullimage = await axios.get(`https://api.zeks.xyz/api/phub?apikey=4PXD3f97yHgcO8aOD5GGIsEJB6l&img=https://www.filmibeat.com/wimgm/500x70/mobi/2017/11/mia-khalifa_1510989398130.jpg&username=Mia%20Khalifa&msg=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Toxic-Alexa😉*' })
+    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by ᮘKͥᴀͭʟᷤɪᴘͫᴘͤᴀɴ ➣Sᴇʀ᭄↹😉*' })
 
   }));
 
