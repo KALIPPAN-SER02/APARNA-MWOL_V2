@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *Aparna-v2*:  ```" + msg + "```"
+    return "✅ *Aparna*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Aparna-v2*:  ```" + msg + "```"
+    return "🛑 *Aparna*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Aparna-v2*:  ```" + msg + "```"
+    return "⏺️ *Aparna*:  ```" + msg + "```"
 }
 
 
