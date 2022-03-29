@@ -7,18 +7,16 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://www.linkpicture.com/q/20211209_231606_1.png", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Alexa bot created by Turbo*
-*Creator number : wa.me/916380260672?text=Hi%20Turbo%20Mods.%20*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*APARNA MWOL V2 bot created by KALIPPANSER*
+*Creator number : wa.me/918381370025?text=Hi%20Kalippan%20ser.%20*
 
-*Githublink :    https://github.com/TURBOHYPER/Toxic-Alexa*
+*Githublink :    https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2*
 
-*Audio commads :   https://github.com/TURBOHYPER/Toxic-Alexa/tree/master/uploads*
+*Audio commads :   https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2/tree/master/uploads*
 
-*Sticker commads : coming soon*
-
-*My channel link : https://youtube.com/c/TurboMods* 
+*My channel link : https://youtube.com/channel/UC0yNrBziB3u2hzvXzJ4NnTA* 
 
 *For More Updates Subscribe The Channel ☝*
 `}) 
