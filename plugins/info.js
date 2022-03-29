@@ -27,9 +27,9 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
     
 ╭─➤ 𝗜𝗡𝗙𝗢 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 »
 │❖ *ᴀᴜᴛʜᴏʀ* : ` + Config.PLK + `
-│❖ *ᴋᴇʀɴᴇʟ* : ʟɪɴᴜx
+│❖ *ᴋᴇʀɴᴇʟ* : ᴋᴀʟɪᴘᴘᴀɴ
 │❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : ` + Config.SLINK + `
-│❖ *OWNER* : https:/wa.me/916380260672...
+│❖ *OWNER* : https:/wa.me/918281370024...
 ╰────────────────❋ཻུ۪۪➹
 ⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘
                ` + Config.BOTSK + `
