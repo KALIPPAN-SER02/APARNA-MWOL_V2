@@ -27,7 +27,7 @@ src="https://tenor.com/view/kiss-gif-25234454.gif" alt="GIF"/>
 </p>
 </a>
 <p align="center">
-Project created by <a href="https://github.com/Kalippan-Midhunx3">KALIPPAN-SER</a> to make it public
+Project created by <a href="https://github.com/KALIPPAN-SER02">KALIPPAN-SER</a> to make it public
     <br>
        | © |
         Reserved |
