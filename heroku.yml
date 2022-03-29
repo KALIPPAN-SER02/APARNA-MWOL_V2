@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /whatsasena/Dockerfile
+      worker: /APARNA-V2/Dockerfile
 run:
    worker: npm start
