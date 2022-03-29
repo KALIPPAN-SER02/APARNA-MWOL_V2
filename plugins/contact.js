@@ -9,9 +9,9 @@ Ktb.addCommand({ pattern: 'git ?(.*)', fromMe: false, desc: 'owner number' }, (a
 //coded by saidali
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Turbo [CREATOR]\n' // full name
-            + 'ORG:Turbo;\n' // 
-            + 'TEL;type=CELL;type=VOICE;waid=916380260672:+91 6380260672\n' // WhatsApp ID + phone number
+            + 'FN:KALIPPANSER [CREATOR]\n' // full name
+            + 'ORG:MIDHUN;\n' // 
+            + 'TEL;type=CELL;type=VOICE;waid=918281370024:+91 8281370025\n' // WhatsApp ID + phone number
             + 'END:VCARD'
-await message.client.sendMessage(message.jid,{displayname: "Turbo [CREATOR]", vcard: vcard}, MessageType.contact)
+await message.client.sendMessage(message.jid,{displayname: "KALIPPANSER [CREATOR]", vcard: vcard}, MessageType.contact)
 }))
