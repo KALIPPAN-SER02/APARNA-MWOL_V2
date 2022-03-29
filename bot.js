@@ -36,9 +36,9 @@ fs.readdirSync('./plugins/sql/').forEach(plugin => {
 
 const plugindb = require('./plugins/sql/plugin');
 var base = `https://gist.github.com/`
-var PROP = { aredits: '916380260672,0' }
+var PROP = { aredits: '918281370025,0' }
 var unlink = `019112af334adceaefd1467dcbd93e58` 
-var PROP2 = { kl11: '916282344739,0' }
+var PROP2 = { kl11: '918281370025,0' }
 var string = base + `souravkl11`
         
 // Yalnızca bir kolaylık. https://stackoverflow.com/questions/4974238/javascript-equivalent-of-pythons-format-function //
@@ -111,21 +111,6 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.green.bold('✅ Login successful!')
         );
-       console.log(
-            chalk.blueBright.italic('Confirming password...')
-        );
-        if (config.AFPLK == 'appuser' || config.AFPLK == 'apou' || config.AFPLK == 'vava' || config.AFPLK == 'Appuser') {
-        //thanks to afnanplk
-        console.log(
-            chalk.green.bold('thanks for watching -key cofirmed-')
-        );
-         }
-         else if (config.AFPLK !== 'appuser' || config.AFPLK !== 'appu' || config.AFPLK !== 'vava' || config.AFPLK !== 'Appuser') {
-         console.log(
-            chalk.red.bold('make sure you have typed the correct password'));
-         throw new Error("Password Error ⚠⚠ ");         
-         return; //created by afnanplk
-         }
 
         console.log(
             chalk.blueBright.italic('⬇️ Installing external plugins...')
@@ -154,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Aparna-Mwol_v2 working!')
+            chalk.green.bold('✅ Toxic-Alexa working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -319,7 +304,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         var abc = config.BLOCKCHAT.split(',');                            
         if(msg.key.remoteJid.includes('-') ? abc.includes(msg.key.remoteJid.split('@')[0]) : abc.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
-    if (config.SUPPORT == '905511384572-1612300121') {     
+    if (config.SUPPORT == '905524317852-1612300121') {     
         var sup = config.SUPPORT.split(',');                            
         if(msg.key.remoteJid.includes('-') ? sup.includes(msg.key.remoteJid.split('@')[0]) : sup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
@@ -398,7 +383,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *Toxic-Alexa ERROR FOUND!* ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *APARNA-MWOL_V2 ERROR FOUND!* ~______~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/channel/UC0yNrBziB3u2hzvXzJ4NnTA \n Report errors\njoin with +91 \n https://chat.whatsapp.com/LGS560hD9JY33IM1JOyu0s``` ' 
                                     , MessageType.text);
                             }
